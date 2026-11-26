@@ -6,7 +6,7 @@ A hands-on portfolio of six practical labs on Large Language Models and Generati
 
 | # | Lab | Focus | Status |
 |---|-----|-------|--------|
-| 01 | [Machine Learning](Lab-01-Machine-Learning/) | Sentiment analysis with text preprocessing, Bag-of-Words and classical ML | In progress |
+| 01 | [Machine Learning](Lab-01-Machine-Learning/) | Sentiment analysis with text preprocessing, Bag-of-Words and classical ML | Complete |
 | 02 | [LLMs in Everyday Life](Lab-02-LLM-Everyday-Life/) | Designing a student product with an LLM as a development partner | Pending |
 | 03 | [Tiny Transformer](Lab-03-Tiny-Transformer/) | A small GPT-style language model trained on TinyStories | Pending |
 | 04 | [Fine-Tuning](Lab-04-Fine-Tune/) | LoRA/QLoRA fine-tuning of a small instruction-tuned LLM | Pending |
